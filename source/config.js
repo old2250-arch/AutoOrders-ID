@@ -12,7 +12,7 @@ export const CURRENCY = "IDR";
 // Link (opsional)
 export const LINKS = {
   // Jika mau aman, kosongkan dan kembalikan link via endpoint server setelah pembayaran.
-  resellerGroupFallback: "", // contoh: "https://chat.whatsapp.com/XXXXX"
+  resellerGroupFallback: "https://chat.whatsapp.com/EVOrkMuSe7xGeuSIm11Po3?mode=gi_t", // contoh: "https://chat.whatsapp.com/XXXXX"
 };
 
 // Produk & harga (edit bebas)
@@ -24,7 +24,7 @@ export const PRODUCTS = [
     icon: "panel",
     requires: { name: true, hostname: false },
     plans: [
-      { key: "panel-1gb", label: "1GB", ramGb: 1, cores: null, price: 2000, badge: "Starter" },
+      { key: "panel-1gb", label: "1GB", ramGb: 1, cores: null, price: 500, badge: "Starter" },
       { key: "panel-2gb", label: "2GB", ramGb: 2, cores: null, price: 3000, badge: "Basic" },
       { key: "panel-3gb", label: "3GB", ramGb: 3, cores: null, price: 5000, badge: "Plus" },
       { key: "panel-4gb", label: "4GB", ramGb: 4, cores: null, price: 7000, badge: "Popular" },
