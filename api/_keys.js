@@ -6,9 +6,9 @@ export const KEYS = {
   },
 
   pterodactyl: {
-    domain: "https://panel.wilzzoffc.biz.id",
-    apiKey: "ptla_r9jy5toTlKzqaao4xLoaEYwS1AyUICNWljNHR1afNAd",
-    clientKey: "ptlc_Voi0sLGgegUxCXaa1niJ7aBMMXakNGujJp3KyfMyrct",
+    domain: "https://wilzz.masviltamvan.biz.id",
+    apiKey: "ptla_NcohrKalMLFkkiWKPoaeJZQcLglkL0EyeRUW9jdyyYZ",
+    clientKey: "ptlc_RgfDmSKHAhNKRgZBtntogzzhxMkq1fiJ0wB1YtNU5Xq",
     egg: 15,
     nestId: 5,
     locationId: 1,
